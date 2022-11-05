@@ -108,7 +108,7 @@ public class MahasiswaBeraksi {
 		anton.setjurusan ("Informatika");
                 
 		anton.cetakInfo();
-        anton.cetakInfo2();
+        	anton.cetakInfo2();
 		}
 
 }
